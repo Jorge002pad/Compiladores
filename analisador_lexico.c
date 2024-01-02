@@ -286,7 +286,7 @@ char* estadoFinal(int estado, char cadena[]){
         break;
     }
 }
-
+//hola
 int main (){
     char bufer[500];
     FILE *archivoEntrada,*archivoSalida;
